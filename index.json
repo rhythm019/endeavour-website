@@ -1,0 +1,1 @@
+{"schemaVersion":2,"mediaType":"application/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.manifest.v1+json","digest":"sha256:641623c81ab7865ce8f53d3403d085d28c06c0358f9376bc3393a0200d227ae5","size":2074,"annotations":{"io.containerd.image.name":"docker.io/library/endeavour-website:latest","org.opencontainers.image.ref.name":"latest"}}]}
